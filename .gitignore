@@ -8,7 +8,6 @@ docker/*/
 testdata/log/
 
 # Develop tools
-.vscode
 .idea/
 .qoder
 
@@ -32,3 +31,5 @@ go.work.sum
 
 # executable files
 *.exe
+config.bat
+node_modules
